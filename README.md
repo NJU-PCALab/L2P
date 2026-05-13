@@ -36,7 +36,7 @@
 | :---: | :--- |
 | 🛠️ | 1K inference code & weights |
 | 🛠️ | Training code |
-| 🛠️ | 4K UHR generation |
+| 🛠️ | 4K/8K/10K UHR generation |
 | 🛠️ | Compatibility with more LDM T2I model |
 
 ---
