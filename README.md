@@ -16,7 +16,9 @@
 </p>
 
 <div align="center">
-<sub>⭐ If L2P helps your research or product, please consider giving the repo a star ⭐</sub>
+  <h2><strong>📢 This repository is no longer active.</strong></h2>
+  <h2><strong>The project has been officially open-sourced and moved to <a href="https://github.com/TencentYoutuResearch/T2I-L2P">L2P</a>.</strong></h2>
+  <h3><strong>Please head over to the new repository for the latest code, issues, and releases!</strong></h3>
 </div>
 
 
